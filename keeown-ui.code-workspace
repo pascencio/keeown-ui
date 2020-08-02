@@ -1,0 +1,18 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"javascript.validate.enable": false,
+		"typescript.format.enable": false,
+		"standard.enable": true,
+		"standard.autoFixOnSave": true,
+		"vetur.validation.script": false,
+		"vetur.format.enable": true,
+		"standard.validate": [
+			"javascript",
+		],
+	}
+}
